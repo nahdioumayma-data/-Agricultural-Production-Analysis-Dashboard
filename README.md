@@ -1,6 +1,5 @@
 
- 🌾 Agricultural Production Analysis Dashboard
-
+🌾 Agricultural Production Analysis Dashboard
 ## 📋 Description
 Ce projet Power BI propose une analyse multidimensionnelle de la production agricole. L'objectif est d'aider les exploitants et décideurs à comprendre l'impact des variables environnementales et techniques sur les rendements pour optimiser les récoltes.
 
